@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Noi dung tu nhanh B
+=======
+Noi dung tu nhanh A
+>>>>>>> nhanh-A
